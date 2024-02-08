@@ -1,0 +1,18 @@
+[submodule "awesome-stable-diffusion"]
+	path = awesome-stable-diffusion
+	url = https://github.com/awesome-stable-diffusion/awesome-stable-diffusion.git
+[submodule "awesome-stable-diffusion-webui"]
+	path = awesome-stable-diffusion-webui
+	url = https://github.com/Curated-Awesome-Lists/awesome-stable-diffusion-webui.git
+[submodule "awesome-ai-tools"]
+	path = awesome-ai-tools
+	url = https://github.com/ankitjh4/awesome-ai-tools.git
+[submodule "Mikes-StableDiffusionNotes"]
+	path = Mikes-StableDiffusionNotes
+	url = https://github.com/michaelbrave/Mikes-StableDiffusionNotes.git
+[submodule "awesome-machine-learning"]
+	path = awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
+[submodule "Awesome-LLM"]
+	path = Awesome-LLM
+	url = https://github.com/Hannibal046/Awesome-LLM.git
