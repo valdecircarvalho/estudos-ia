@@ -9,7 +9,6 @@
  - https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=ab624266c6a44413b42a6c57a41d828c
  - http://xosh.org/clip-artists/
  - https://www.the-ai-art.com/modifiers
- - https://gorgeous.adityashankar.xyz/
  - SDXL https://sdxl.parrotzone.art/
  - SD1.5 500 rabits https://clio.so/rabbits
 
