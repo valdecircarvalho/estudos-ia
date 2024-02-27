@@ -1,4 +1,4 @@
-These are some of the Stable Diffusion references people have made listing hundreds of artist styles.
+# Stable Diffusion Artist Syles List
 
 1. https://supagruen.github.io/StableDiffusion-CheatSheet/
 2. https://rentry.org/artists_sd-v1-4 backed up as single page on http://xosh.org/sd_1.4_list_of_artists/ 
