@@ -10,16 +10,9 @@
  - http://xosh.org/clip-artists/
  - https://www.the-ai-art.com/modifiers
  - SDXL https://sdxl.parrotzone.art/
- - SD1.5 500 rabits https://clio.so/rabbits
-
-Cheat sheets comparing models
-
-1. https://mrasa.notion.site/mrasa/SD-Comparison-4ec081d300a34547b51c69735760158f
-
-Excel/Google Sheets, lists of artists
-
-1. (SDXL) 1032 artists, 105 styles, 200 images https://docs.google.com/spreadsheets/d/1yXxsGjK1Ew19txo93u-xzUR40-WAURXWjDqS5eCSr9Y/
-2. 209 Celebrities in Stable Diffusion (with images) https://docs.google.com/spreadsheets/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/edit#gid=0
-3. 522 artists https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/htmlview#
-4. Artists names and styles https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0
-5. (SDXL) artists https://huggingface.co/spaces/mattthew/SDXL-artists-browser
+ - https://mrasa.notion.site/mrasa/SD-Comparison-4ec081d300a34547b51c69735760158f
+ - (SDXL) 1032 artists, 105 styles, 200 images https://docs.google.com/spreadsheets/d/1yXxsGjK1Ew19txo93u-xzUR40-WAURXWjDqS5eCSr9Y/
+ - 209 Celebrities in Stable Diffusion (with images) https://docs.google.com/spreadsheets/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/edit#gid=0
+ - 522 artists https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/htmlview#
+ - Artists names and styles https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0
+ - (SDXL) artists https://huggingface.co/spaces/mattthew/SDXL-artists-browser
